@@ -1,0 +1,5 @@
+package com.cryp.harsh.repository;
+
+public interface ForgotPasswordRepository {
+
+}

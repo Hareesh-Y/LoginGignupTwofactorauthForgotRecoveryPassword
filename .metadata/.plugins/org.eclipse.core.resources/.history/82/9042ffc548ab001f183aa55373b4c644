@@ -1,0 +1,5 @@
+package com.cryp.harsh.domain;
+
+public class USER_ROLE {
+
+}

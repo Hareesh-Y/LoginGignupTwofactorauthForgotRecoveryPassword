@@ -1,0 +1,5 @@
+package com.cryp.harsh.model;
+
+public class VerificationCode {
+
+}

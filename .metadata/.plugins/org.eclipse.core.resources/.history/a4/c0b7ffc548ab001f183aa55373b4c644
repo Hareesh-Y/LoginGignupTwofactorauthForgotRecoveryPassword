@@ -1,0 +1,5 @@
+package com.cryp.harsh.config;
+
+public class JwtProvider {
+
+}

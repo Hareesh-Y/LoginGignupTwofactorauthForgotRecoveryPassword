@@ -1,0 +1,5 @@
+package com.cryp.harsh.repository;
+
+public class VerificationCodeRepository {
+
+}

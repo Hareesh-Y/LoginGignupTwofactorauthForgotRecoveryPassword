@@ -1,0 +1,5 @@
+package com.cryp.harsh.request;
+
+public class ResetPasswordRequest {
+
+}

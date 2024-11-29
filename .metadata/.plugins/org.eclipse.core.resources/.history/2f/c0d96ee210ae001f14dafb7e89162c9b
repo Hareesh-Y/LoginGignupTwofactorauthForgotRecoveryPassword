@@ -1,0 +1,5 @@
+package com.cryp.harsh.response;
+
+public class ApiResponse {
+
+}

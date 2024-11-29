@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.cryp.harsh.utils.OtpUtils"/>
+    <fullyQualifiedTypeName name="com.cryp.harsh.model.TwoFactorOtp"/>
+    <fullyQualifiedTypeName name="com.cryp.harsh.config.JwtProvider"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.cryp.harsh.domain.VerificationType"/>
+    <fullyQualifiedTypeName name="com.cryp.harsh.model.TwoFactorAuth"/>
+    <fullyQualifiedTypeName name="com.cryp.harsh.service.UserService"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PatchMapping"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.cryp.harsh.model.VerificationCode"/>
+    <fullyQualifiedTypeName name="com.cryp.harsh.model.User"/>
+</qualifiedTypeNameHistroy>

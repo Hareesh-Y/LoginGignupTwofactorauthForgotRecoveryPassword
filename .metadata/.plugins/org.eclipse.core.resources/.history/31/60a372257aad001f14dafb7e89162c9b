@@ -1,0 +1,9 @@
+package com.cryp.harsh.service;
+
+public interface ForgotPasswordService {
+	
+	
+	
+	
+
+}
